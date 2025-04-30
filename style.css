@@ -1,0 +1,55 @@
+h1 {
+    font-size: 32px;
+    margin: 20px;
+  }
+
+  .text {
+    font-size: 2em; 
+ }
+ 
+ 
+ .text-rem  {
+  font-size: 2rem; 
+}
+
+.container {
+  padding: 20px;
+  border: 5px solid black;
+  background-color: green;
+}
+.title {
+  font-size: 24px;
+  text-align: center;
+}
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+.boxnum1 {
+  width: 50%; 
+}
+
+.box {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 20px;
+  background-color: darkblue;
+  font-size: 16px;
+}
+
+.box1 {
+  background-color: #3498db; 
+  color: #ff1fff;
+}
+
+
+.box2 {
+  background-color: rgb(255, 99, 71); 
+  color: rgb(255, 255, 255); 
+}
+
+.box3 {
+  background-color: rgba(46, 204, 113, 0.6);
+  color: rgba(0, 0, 0, 0.8); 
+}
