@@ -1,0 +1,32 @@
+.container1 {
+  padding: 20px;
+  border: 5px solid black;
+  background-color: green;
+}
+.title {
+  font-size: 24px;
+  text-align: center;
+}
+.highlight {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  display: block; 
+}
+p {
+  display: inline; 
+}
+
+.container p {
+  display: block;
+}
+
+.container img {
+  display: block;
+}
+
+.container a {
+  display: block;
+}
