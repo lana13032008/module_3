@@ -1,0 +1,65 @@
+.input:focus {
+    border-color: #007bff;
+ }
+ 
+ .button:hover {
+    background-color: #0056b3;
+ }
+ 
+ .list-item:first-child {
+   font-weight: bold;
+}
+
+.list-item:last-child {
+   color: green;
+}
+
+.block {
+   border: 2px solid gray;
+   padding: 10px;
+   margin: 20px;
+   background-color: lightyellow;
+   font-size: 16px;
+ }
+
+ .block p:nth-child(odd) {
+   background-color: blue;
+   font-weight: bold;
+ }
+
+ .block a:hover {
+   color: red;
+ }
+
+ .block a:focus {
+   border-color:purple;
+ }
+
+ .block p:first-child {
+   font-weight: bold;
+ }
+
+ .block p:last-child {
+   color: blue;
+ }
+
+ .content {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 20px;
+  background-color: lightyellow;
+  font-size: 16px;
+}
+
+.content p:first-child:hover {
+  background-color: lightblue;
+  color: darkblue;
+  font-weight: bold;
+}
+
+
+.content input:last-child:focus {
+  
+  background-color: #eaffea;
+  font-weight: bold;
+}
